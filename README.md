@@ -12,12 +12,8 @@ All instructions can be found at [draculatheme.com/blender](https://draculatheme
 
 This theme is maintained by the following person and a bunch of [awesome contributors](https://github.com/dracula/blender/contributors).
 
-| [![Allie (ChildishGiant)](https://avatars1.githubusercontent.com/u/13716824?v=3&s=60)](https://github.com/childishgiant) |
-| ------------------------------------------------------------------------------------------------------------------------ |
-| [Allie (ChildishGiant)](https://github.com/childishgiant)                                                                |
-| [![foxtrot222](https://avatars.githubusercontent.com/u/93577697?v=4)](https://github.com/foxtrot222) |
-| ------------------------------------------------------------------------------------------------------------------------ |
-| [foxtrot222](https://github.com/foxtrot222)                                                                |
+- [Allie (ChildishGiant)](https://github.com/childishgiant)
+- [foxtrot222](https://github.com/foxtrot222)
 
 ## Community
 
