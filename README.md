@@ -14,6 +14,7 @@ This theme is maintained by the following person and a bunch of [awesome contrib
 
 - [Allie (ChildishGiant)](https://github.com/childishgiant)
 - [foxtrot222](https://github.com/foxtrot222)
+- [WadeWT](https://github.com/WadeWT)
 
 ## Community
 
